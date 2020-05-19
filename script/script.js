@@ -45,4 +45,8 @@ $("h2").addClass("underline");
 $("ul").removeClass("border");
 
 */
+
+$("tr:odd").addClass("odd");
+$("tr:even").addClass("even");
+
 });

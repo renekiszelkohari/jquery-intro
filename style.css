@@ -22,3 +22,11 @@ td, th {
     .odd {
       background-color: #000;
     }
+
+.odd {
+    background-color: #E84610;
+}
+
+.even {
+    background-color: #C65353;
+}

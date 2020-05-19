@@ -19,10 +19,7 @@ td, th {
       padding: 1rem;
       font-family: Roboto;
     }
-    .odd {
-      background-color: #000;
-    }
-
+    
 .odd {
     background-color: #E84610;
 }
